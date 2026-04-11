@@ -59,8 +59,9 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-uhlTPoH2Eb0-banquet_dish_table.jpg") %> -->
-When they **found** him on the other side of the sea, <br/>
-they said to him, “Rabbi, when did you **come** here?” 
+When they **found** him on the <br/>
+other side of the sea, they said to him, <br/>
+“Rabbi, when did you **come** here?” 
 
 Jesus answered them, <br/>
 “Truly, truly, I say to you, <br/>
@@ -125,10 +126,7 @@ that you **believe in** him whom he has sent.”
 
 ---
 <!-- .slide: <%= bg("unsplash-oQl0eVYd_n8-sea_sky_telaviv.jpg") %> -->
-Do not work for the food that perishes, <br/>
-but for the food that endures to eternal life, <br/>
-which the **Son** of Man will give to you. 
-
+... which the **Son** of Man will give to you. <br/>
 For on him God the **Father** has set his **seal**.” 
 
 [John 6:27 (ESV)](# "ref")
@@ -179,8 +177,9 @@ as it is written, <br/>
 <!-- .slide: <%= bg("unsplash-Tun6jr3D0Jg-forest_beams.jpg") %> -->
 Jesus then said to them, <br/>
 “Truly, truly, I say to you, it was not **Moses** <br/>
-who gave you the bread from heaven, but <br/>
-my **Father** gives you the true bread from heaven. 
+who gave you the bread from heaven, <br/>
+but my **Father** gives you <br/>
+the true bread from heaven. 
 
 For the **bread of God** is <br/>
 he who comes **down** from heaven <br/>
@@ -214,7 +213,8 @@ and gives **life** to the world.”
 
 ---
 <!-- .slide: <%= bg("unsplash-_HzRfyw7BuA-communion.jpg") %> -->
-They said to him, “Sir, **give us** this bread always.”
+They said to him, <br/>
+“Sir, **give us** this bread always.”
 
 Jesus said to them, “I am the **bread of life**; <br/>
 whoever **comes** to me shall not hunger, <br/>
@@ -237,12 +237,12 @@ you have **seen** me and yet do **not believe**.
 All that the **Father gives** me will come to me, <br/>
 and **whoever comes** to me I will never **cast out**. 
 
-For I have come down from heaven, not to <br/>
-do my **own will** but the will of him who **sent me**. 
+For I have come down from heaven, not to do <br/>
+my **own will** but the will of him who **sent me**. 
 
 And this is the will of him who sent me, that <br/>
-I should **lose** nothing of all that he has given me, <br/>
-but **raise** it up on the last day. 
+I should **lose** nothing of all that he has <br/>
+given me, but **raise** it up on the last day. 
 
 [John 6:37-39 (ESV)](# "ref")
 [Aaron Burden](https://unsplash.com/photos/o--lefJNe0w "caption")
