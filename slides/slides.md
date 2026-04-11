@@ -7,7 +7,8 @@
 [James Coleman](https://unsplash.com/photos/_HzRfyw7BuA "caption")
 
 >>>
-+ **self-identity**: how do I **intro** self?
++ starving, learning to cook 
++ fasting reminds us we are not so strong 
 
 ---
 <!-- .slide: <%= bg("pxhere-1094065-cross-silh.jpg") %> -->
