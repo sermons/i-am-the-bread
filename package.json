@@ -1,7 +1,7 @@
 {
   "name": "@sermons/i-am-the-bread",
   "repository": "sermons/i-am-the-bread",
-  "description": "John6:25-39 I AM: the Bread of Life",
+  "description": "John6:25-40 I AM: the Bread of Life",
   "keywords": [
     "sermon",
     "john",
@@ -14,7 +14,7 @@
     "cname": "i-am-the-bread.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
-      "id": "22bc761ffc97809b"
+      "id": "2d3610ff7d9d531a"
     },
     "git": {
       "name": "Sean Ho",
