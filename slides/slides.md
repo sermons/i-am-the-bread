@@ -272,4 +272,4 @@ and I will **raise** him up on the last day.”
 <!-- .element: class="r-fit-text" -->
 
 ---
-<!-- .slide: <%= bg("unsplash-QnNqGoCnBg0-bread_wood.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-_HzRfyw7BuA-communion.jpg") %> class="empty" -->
