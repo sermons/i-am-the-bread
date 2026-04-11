@@ -1,10 +1,10 @@
-<!-- .slide: <%= bg("unsplash-QnNqGoCnBg0-bread_wood.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-_HzRfyw7BuA-communion.jpg") %> id="title" -->
 
 ## I AM: the
 # Bread of Life
 ## John 6:25-40
 
-[Ales Krivec](https://unsplash.com/photos/QnNqGoCnBg0 "caption")
+[James Coleman](https://unsplash.com/photos/_HzRfyw7BuA "caption")
 
 >>>
 + **self-identity**: how do I **intro** self?
@@ -37,7 +37,7 @@
 + Each one also an **invitation**: CTA
 
 ---
-<!-- .slide: <%= bg("unsplash-QnNqGoCnBg0-bread_wood.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-_HzRfyw7BuA-communion.jpg") %> id="outline" class="outline" -->
 ## Bread of Life (Jn6)
 1. Seeking (v25-26)
 1. Working (v27-29)
@@ -94,7 +94,7 @@ but because you ate your **fill** of the loaves.
 <!-- .element: class="r-fit-text" -->
 
 ---
-<!-- .slide: <%= bg("unsplash-QnNqGoCnBg0-bread_wood.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-_HzRfyw7BuA-communion.jpg") %> class="outline" -->
 ## Bread of Life (Jn6)
 1. Seeking (v25-26)
 1. **Working** (v27-29)
@@ -146,7 +146,7 @@ For on him God the **Father** has set his **seal**.”
 + "work of God": faith/belief
 
 ---
-<!-- .slide: <%= bg("unsplash-QnNqGoCnBg0-bread_wood.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-_HzRfyw7BuA-communion.jpg") %> class="outline" -->
 ## Bread of Life (Jn6)
 1. Seeking (v25-26)
 1. Working (v27-29)
@@ -204,7 +204,7 @@ and gives **life** to the world.”
 + faith journey diff for everyone
 
 ---
-<!-- .slide: <%= bg("unsplash-QnNqGoCnBg0-bread_wood.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-_HzRfyw7BuA-communion.jpg") %> class="outline" -->
 ## Bread of Life (Jn6)
 1. Seeking (v25-26)
 1. Working (v27-29)
@@ -212,7 +212,7 @@ and gives **life** to the world.”
 1. **Receiving** (v34-40)
 
 ---
-<!-- .slide: <%= bg("unsplash-_HzRfyw7BuA-communion.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-QnNqGoCnBg0-bread_wood.jpg") %> -->
 They said to him, <br/>
 “Sir, **give us** this bread always.”
 
@@ -224,7 +224,7 @@ But I said to you that <br/>
 you have **seen** me and yet do **not believe**. 
 
 [John 6:34-36 (ESV)](# "ref")
-[James Coleman](https://unsplash.com/photos/_HzRfyw7BuA "caption")
+[Ales Krivec](https://unsplash.com/photos/QnNqGoCnBg0 "caption")
 
 >>>
 + "give us this bread": but 
