@@ -2,7 +2,7 @@
 
 ## I AM: the
 # Bread of Life
-## John 6:25-39
+## John 6:25-40
 
 >>>
 + **self-identity**: how do I **intro** self?
@@ -27,11 +27,41 @@
   + not intended to be **overview of Jn**
   + **lens** to view incarnation
 + How Jesus **self-identifies**
-  + **characteristics** of God
+  + reveal **charac** of God
+  + I AM: Ex3:14
 + Each one also an **invitation**: CTA
 
 ---
-## Seeking (:25-26)
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+## Bread of Life (Jn6)
+1. Seeking (v25-26)
+1. Working (v27-29)
+1. Believing (v30-33)
+1. Receiving (v34-40)
+
+>>>
++ Context (v1): Galilee, fed 5k
++ response: Prophet/Messiah, but
+  + to **overthrow** Romans
++ Jesus withdrew across lake to Capernaum
+  + crowds followed
++ "I am": who do **people** say He is?
+  + teacher/rabbi, prophet/messiah,
+  + rebel/king of ascendant military power
++ "I am": **revealed** self
+  + walking on water, to discip:
+  + "It is I; fear not"
+
+---
+When they **found** him on the other side of the sea, <br/>
+they said to him, “Rabbi, when did you **come** here?” 
+
+Jesus answered them, <br/>
+“Truly, truly, I say to you, <br/>
+you are **seeking** me, not because you saw **signs**, <br/>
+but because you ate your **fill** of the loaves.
+
+[John 6:25-26 (ESV)](# "ref")
 
 >>>
 + e.g., habitual prayer only at meals: for food
@@ -56,7 +86,26 @@
 <!-- .element: class="r-fit-text" -->
 
 ---
-## Working (:27-29)
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## Bread of Life (Jn6)
+1. Seeking (v25-26)
+1. **Working** (v27-29)
+1. Believing (v30-33)
+1. Receiving (v34-40)
+
+---
+Do not **work** for the food that **perishes**, <br/>
+but for the food that **endures** to eternal life, <br/>
+which the Son of Man will give to you. <br/>
+For on him God the Father has set his seal.” 
+
+Then they said to him, “What must we **do**, <br/>
+to be doing the works of God?” 
+
+Jesus answered them, “This is the **work of God**, <br/>
+that you **believe in** him whom he has sent.” 
+
+[John 6:27-29 (ESV)](# "ref")
 
 >>>
 + work || bread: earning a living
@@ -64,6 +113,17 @@
   + then He will bless me
 + work || faith: trust + obey
   + not vain faith, but with action (Jam)
+
+---
+Do not work for the food that perishes, <br/>
+but for the food that endures to eternal life, <br/>
+which the **Son** of Man will give to you. 
+
+For on him God the **Father** has set his **seal**.” 
+
+[John 6:27 (ESV)](# "ref")
+
+>>>
 + **seal** of Father on Son: baptism, transfiguration
 
 ---
@@ -77,13 +137,49 @@
 + "work of God": faith/belief
 
 ---
-## Believing (:30-33)
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## Bread of Life (Jn6)
+1. Seeking (v25-26)
+1. Working (v27-29)
+1. **Believing** (v30-33)
+1. Receiving (v34-40)
+
+---
+So they said to him, <br/>
+“Then what **sign** do you do, <br/>
+that we may see and **believe** you?  <br/>
+What **work** do you perform? 
+
+Our fathers ate the **manna** in the wilderness; <br/>
+as it is written, <br/>
+‘He gave them **bread from heaven** to eat.’” 
+
+[John 6:30-31 (ESV)](# "ref")
 
 >>>
 + "what sign will you do?": needs to be big enough
-  + benchmark: manna from heaven
+  + benchmark: manna from heaven (Ex16)
 + what convinces me? fake news, AI slop
   + prior **experience**, tradition / culture
+
+---
+Jesus then said to them, <br/>
+“Truly, truly, I say to you, it was not **Moses** <br/>
+who gave you the bread from heaven, but <br/>
+my **Father** gives you the true bread from heaven. 
+
+For the **bread of God** is <br/>
+he who comes **down** from heaven <br/>
+and gives **life** to the world.”
+
+[John 6:30-31 (ESV)](# "ref")
+
+>>>
++ God **does** provide for daily needs
+  + but it **points** to our deeper need
++ CTA: seek not only **blessings**
+  + but person of Christ Himself
++ **manna** from heaven, sustains life
 
 ---
 <!-- .slide: data-background="white" -->
@@ -94,17 +190,60 @@
 + faith journey diff for everyone
 
 ---
-## Receiving (:34-39)
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+## Bread of Life (Jn6)
+1. Seeking (v25-26)
+1. Working (v27-29)
+1. Believing (v30-33)
+1. **Receiving** (v34-40)
+
+---
+They said to him, “Sir, give us this bread always.”
+
+Jesus said to them, “I am the bread of life; <br/>
+whoever comes to me shall not hunger, <br/>
+and whoever believes in me shall never thirst. 
+
+But I said to you that <br/>
+you have seen me and yet do not believe. 
+
+[John 6:34-36 (ESV)](# "ref")
 
 >>>
-+ "give us this bread": but "you have seen me and yet do not believe"
++ "give us this bread": but 
+  + "you have seen me and yet do not believe"
 + still thinking of a blessing that Jesus gives
   + Jesus only **intermediary** to blessing
+
+---
+All that the **Father gives** me will come to me, <br/>
+and **whoever comes** to me I will never **cast out**. 
+
+For I have come down from heaven, not to <br/>
+do my **own will** but the will of him who **sent me**. 
+
+And this is the will of him who sent me, that <br/>
+I should **lose** nothing of all that he has given me, <br/>
+but **raise** it up on the last day. 
+
+[John 6:37-39 (ESV)](# "ref")
+
+>>>
 + Father **gives**, we **come** (look, believe), Son **receives**
   + not **cast out**, not **lost**, but **raise**
 + nor **hunger** nor **thirst**
+
+---
+For this is the will of my Father, <br/>
+that everyone who **looks** on the Son <br/>
+and **believes** in him should have eternal life, <br/>
+and I will **raise** him up on the last day.”
+
+[John 6:40 (ESV)](# "ref")
+
+>>>
 + look + believe: cf Moses + bronze snake
-+ cf 10, no one snatches them out of My hand
++ cf ch10, no one snatches them out of My hand
 
 ---
 <!-- .slide: data-background="white" -->
