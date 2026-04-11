@@ -75,19 +75,7 @@ but because you ate your **fill** of the loaves.
 >>>
 + e.g., habitual prayer only at meals: for food
 + about necessities of life
-+ "fill": satisfied, met need, crisis averted
-+ cf gnosticism
-+ Jesus not saying health, school, work not important 
-  + need these to live 
-+ but we are more than just biological machines
-  + so our needs are not only physical but emotional, relational, spiritual
-+ "give us this day our daily bread":
-  + manna: enough for 1 day
-  + what we need to survive
-+ not just needs of the flesh!
-  + give me enough patience for today
-  + enough grace toward the unlovables 
-  + enough humility under God's authority 
++ "fill": satisfied, met need, crisis averted 
 
 ---
 <!-- .slide: data-background="white" -->
@@ -135,7 +123,18 @@ For on him God the **Father** has set his **seal**.”
 
 >>>
 + **seal** of Father on Son: baptism, transfiguration
-
++ cf gnosticism:
+  + not that health, school, work not important 
+  + need these to live 
++ but we are more than just biological machines
+  + so our needs are not only physical but emotional, relational, spiritual
++ "give us this day our daily bread":
+  + manna: enough for 1 day
+  + what we need to survive
++ not just needs of the flesh!
+  + give me enough patience for today
+  + enough grace toward the unlovables 
+  + enough humility under God's authority
 ---
 <!-- .slide: data-background="white" -->
 # Have I been working hard **for** God, <br/> not doing the **work of God**?
