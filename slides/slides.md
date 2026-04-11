@@ -1,13 +1,16 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-QnNqGoCnBg0-bread_wood.jpg") %> id="title" -->
 
 ## I AM: the
 # Bread of Life
 ## John 6:25-40
 
+[Ales Krivec](https://unsplash.com/photos/QnNqGoCnBg0 "caption")
+
 >>>
 + **self-identity**: how do I **intro** self?
 
 ---
+<!-- .slide: <%= bg("pxhere-1094065-cross-silh.jpg") %> -->
 ## Jesus is the I AM
 
 + **Bread** of Life (Jn6)
@@ -17,6 +20,8 @@
 + Resurrection and the **Life** (Jn11)
 + **Way**, the Truth, and the Life (Jn14)
 + True **Vine** (Jn15)
+
+[pxhere](https://pxhere.com/en/photo/1094065 "caption")
 
 >>>
 + John unique amongst **gospels**:
@@ -32,7 +37,7 @@
 + Each one also an **invitation**: CTA
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-QnNqGoCnBg0-bread_wood.jpg") %> id="outline" class="outline" -->
 ## Bread of Life (Jn6)
 1. Seeking (v25-26)
 1. Working (v27-29)
@@ -53,6 +58,7 @@
   + "It is I; fear not"
 
 ---
+<!-- .slide: <%= bg("unsplash-uhlTPoH2Eb0-banquet_dish_table.jpg") %> -->
 When they **found** him on the other side of the sea, <br/>
 they said to him, “Rabbi, when did you **come** here?” 
 
@@ -62,6 +68,7 @@ you are **seeking** me, not because you saw **signs**, <br/>
 but because you ate your **fill** of the loaves.
 
 [John 6:25-26 (ESV)](# "ref")
+[Toa Heftiba](https://unsplash.com/photos/uhlTPoH2Eb0 "caption")
 
 >>>
 + e.g., habitual prayer only at meals: for food
@@ -86,7 +93,7 @@ but because you ate your **fill** of the loaves.
 <!-- .element: class="r-fit-text" -->
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-QnNqGoCnBg0-bread_wood.jpg") %> class="outline" -->
 ## Bread of Life (Jn6)
 1. Seeking (v25-26)
 1. **Working** (v27-29)
@@ -94,6 +101,7 @@ but because you ate your **fill** of the loaves.
 1. Receiving (v34-40)
 
 ---
+<!-- .slide: <%= bg("unsplash-mYT03hytMcU-old_coins.jpg") %> -->
 Do not **work** for the food that **perishes**, <br/>
 but for the food that **endures** to eternal life, <br/>
 which the Son of Man will give to you. <br/>
@@ -106,6 +114,7 @@ Jesus answered them, “This is the **work of God**, <br/>
 that you **believe in** him whom he has sent.” 
 
 [John 6:27-29 (ESV)](# "ref")
+[udit saptarshi](https://unsplash.com/photos/mYT03hytMcU "caption")
 
 >>>
 + work || bread: earning a living
@@ -115,6 +124,7 @@ that you **believe in** him whom he has sent.”
   + not vain faith, but with action (Jam)
 
 ---
+<!-- .slide: <%= bg("unsplash-oQl0eVYd_n8-sea_sky_telaviv.jpg") %> -->
 Do not work for the food that perishes, <br/>
 but for the food that endures to eternal life, <br/>
 which the **Son** of Man will give to you. 
@@ -122,6 +132,7 @@ which the **Son** of Man will give to you.
 For on him God the **Father** has set his **seal**.” 
 
 [John 6:27 (ESV)](# "ref")
+[Tel Aviv-Yafo. Joseph Barrientos](https://unsplash.com/photos/oQl0eVYd_n8 "caption")
 
 >>>
 + **seal** of Father on Son: baptism, transfiguration
@@ -137,7 +148,7 @@ For on him God the **Father** has set his **seal**.”
 + "work of God": faith/belief
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-QnNqGoCnBg0-bread_wood.jpg") %> class="outline" -->
 ## Bread of Life (Jn6)
 1. Seeking (v25-26)
 1. Working (v27-29)
@@ -145,6 +156,7 @@ For on him God the **Father** has set his **seal**.”
 1. Receiving (v34-40)
 
 ---
+<!-- .slide: <%= bg("unsplash-8EFA86nI6yg-desert_cracks.jpg") %> -->
 So they said to him, <br/>
 “Then what **sign** do you do, <br/>
 that we may see and **believe** you?  <br/>
@@ -155,6 +167,7 @@ as it is written, <br/>
 ‘He gave them **bread from heaven** to eat.’” 
 
 [John 6:30-31 (ESV)](# "ref")
+[Brad Helmink](https://unsplash.com/photos/8EFA86nI6yg "caption")
 
 >>>
 + "what sign will you do?": needs to be big enough
@@ -163,6 +176,7 @@ as it is written, <br/>
   + prior **experience**, tradition / culture
 
 ---
+<!-- .slide: <%= bg("unsplash-Tun6jr3D0Jg-forest_beams.jpg") %> -->
 Jesus then said to them, <br/>
 “Truly, truly, I say to you, it was not **Moses** <br/>
 who gave you the bread from heaven, but <br/>
@@ -173,6 +187,7 @@ he who comes **down** from heaven <br/>
 and gives **life** to the world.”
 
 [John 6:30-31 (ESV)](# "ref")
+[Hans Ott](https://unsplash.com/photos/Tun6jr3D0Jg "caption")
 
 >>>
 + God **does** provide for daily needs
@@ -190,7 +205,7 @@ and gives **life** to the world.”
 + faith journey diff for everyone
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-QnNqGoCnBg0-bread_wood.jpg") %> class="outline" -->
 ## Bread of Life (Jn6)
 1. Seeking (v25-26)
 1. Working (v27-29)
@@ -198,16 +213,18 @@ and gives **life** to the world.”
 1. **Receiving** (v34-40)
 
 ---
-They said to him, “Sir, give us this bread always.”
+<!-- .slide: <%= bg("unsplash-_HzRfyw7BuA-communion.jpg") %> -->
+They said to him, “Sir, **give us** this bread always.”
 
-Jesus said to them, “I am the bread of life; <br/>
-whoever comes to me shall not hunger, <br/>
-and whoever believes in me shall never thirst. 
+Jesus said to them, “I am the **bread of life**; <br/>
+whoever **comes** to me shall not hunger, <br/>
+and whoever **believes** in me shall never thirst. 
 
 But I said to you that <br/>
-you have seen me and yet do not believe. 
+you have **seen** me and yet do **not believe**. 
 
 [John 6:34-36 (ESV)](# "ref")
+[James Coleman](https://unsplash.com/photos/_HzRfyw7BuA "caption")
 
 >>>
 + "give us this bread": but 
@@ -216,6 +233,7 @@ you have seen me and yet do not believe.
   + Jesus only **intermediary** to blessing
 
 ---
+<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
 All that the **Father gives** me will come to me, <br/>
 and **whoever comes** to me I will never **cast out**. 
 
@@ -227,22 +245,25 @@ I should **lose** nothing of all that he has given me, <br/>
 but **raise** it up on the last day. 
 
 [John 6:37-39 (ESV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/o--lefJNe0w "caption")
 
 >>>
 + Father **gives**, we **come** (look, believe), Son **receives**
   + not **cast out**, not **lost**, but **raise**
-+ nor **hunger** nor **thirst**
++ look + believe: cf Moses + bronze snake
 
 ---
+<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 For this is the will of my Father, <br/>
 that everyone who **looks** on the Son <br/>
 and **believes** in him should have eternal life, <br/>
 and I will **raise** him up on the last day.”
 
 [John 6:40 (ESV)](# "ref")
+[Geetanjal Khanna](https://unsplash.com/photos/8CwoHpZe3qE "caption")
 
 >>>
-+ look + believe: cf Moses + bronze snake
++ v35: nor **hunger** nor **thirst**
 + cf ch10, no one snatches them out of My hand
 
 ---
@@ -250,3 +271,5 @@ and I will **raise** him up on the last day.”
 # How does Jesus' **promise** <br/> in this passage <br/> bring me **comfort**?
 <!-- .element: class="r-fit-text" -->
 
+---
+<!-- .slide: <%= bg("unsplash-QnNqGoCnBg0-bread_wood.jpg") %> class="empty" -->
