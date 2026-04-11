@@ -1,5 +1,5 @@
 # I AM: the Bread of Life
-## John 6:25-39
+## John 6:25-40
 
 [![Build status](https://github.com/sermons/i-am-the-bread/actions/workflows/build.yml/badge.svg)](https://github.com/sermons/i-am-the-bread/actions/workflows/build.yml)
 ![Dependency check](https://img.shields.io/librariesio/github/sermons/i-am-the-bread)
